@@ -1,4 +1,4 @@
-# Tela de Login — Bootstrap
+# Tela de Login - Bootstrap
 
 **Aluno:** Henrique  
 **Atividade:** Tela de login estática utilizando Bootstrap   
